@@ -1,2 +1,3 @@
 Esta vez vamos a aprender a usar GIT
 Esta es una prueba del staging
+Vamos a hacer una pruebas de cambios debe salir 
