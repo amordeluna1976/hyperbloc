@@ -3,6 +3,7 @@ Hoy cierro este curso con 100
 Ya estoy avanzando un poco mas 
 Vamos a actualizar todos
 Vamos de nuevo para que no se vaya este cambio
+experimentando otra vez
 Vanos nuevamente a quitar del staging este parte
 Tambien estamos incluyendo a amordeluna99@hotmail.com
 Estamos contribuyendo en el proyecto
@@ -10,4 +11,3 @@ vamos a poner otro cambio
 Master 1
 Master 2
 Master 2.1
-experimento otra vez
